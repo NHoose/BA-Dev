@@ -3,7 +3,7 @@ from typing import List
 import pandas as pd
 import numpy as np
 
-"""Stellt Datensätze aus Features und Tergetvalues im tidy data zusammen.
+"""Stellt Datensätze aus Features und Tergetvalues im tidy data Format zusammen.
 
 stations: Die Stations IDs für die Instanzen erstellt werden sollen
 dates: Die Dates für die eine Instanz erstellt werden soll
